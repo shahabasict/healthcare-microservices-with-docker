@@ -1,0 +1,9 @@
+app:
+  name: Discovery Service
+  version: 1.0.0
+  description: Discovery Service
+  base-url:
+spring:
+  data:
+    mongodb:
+      uri: mongodb://mongo:27017/doctor-service

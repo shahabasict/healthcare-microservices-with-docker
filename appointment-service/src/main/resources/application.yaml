@@ -42,3 +42,4 @@ logging:
             MongoOperations: DEBUG
 #  pattern:
 #    console: "%msg%n"
+
